@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>certification_review on Welcome to my blog :)</title>
+    <link>https://n-x-7.github.io/tags/certification_review/</link>
+    <description>Recent content in certification_review on Welcome to my blog :)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 29 Mar 2022 21:20:42 +0400</lastBuildDate><atom:link href="https://n-x-7.github.io/tags/certification_review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CEH Practical Exam Review &#43; Preparation (March 2022)</title>
+      <link>https://n-x-7.github.io/posts/cehreview/</link>
+      <pubDate>Tue, 29 Mar 2022 21:20:42 +0400</pubDate>
+      
+      <guid>https://n-x-7.github.io/posts/cehreview/</guid>
+      <description>Hello, everyone! This is my review of the Certified Ethical Hacker (C|EH) Practical exam, which I passed with a perfect score of 20/20 and only took around 1h30min of the 6 hours to complete.
+NOTE: I won&amp;rsquo;t be mentioning the exact questions I got for the exam because of NDA but I assure you everything you need to pass the exam is here.
+So let me tell you a short story about how I ended up getting a voucher for this exam.</description>
+    </item>
+    
+  </channel>
+</rss>
