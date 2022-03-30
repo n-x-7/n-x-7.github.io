@@ -19,7 +19,7 @@
 NOTE: I won&amp;rsquo;t be mentioning the exact questions I got for the exam because of NDA but I assure you everything you need to pass the exam is here.
 So let me tell you a short story about how I ended up getting a voucher for this exam.</description>
             <content type="html"><![CDATA[<hr>
-<p>Hello, everyone! This is my review of the <strong>Certified Ethical Hacker (C|EH) Practical</strong> exam, which I passed with a perfect score of <strong>20/20</strong> and only took around <em>1h30min</em> of the 6 hours to complete.</p>
+<p>Hello, everyone! This is my review of the <strong>Certified Ethical Hacker (C|EH) Practical</strong> exam, which I passed with a perfect score of <strong>20/20</strong> and only took around <em>1h30min</em> of the <em>6 hours</em> to complete.</p>
 <p><strong>NOTE</strong>: I won&rsquo;t be mentioning the exact questions I got for the exam because of NDA but I assure you everything you need to pass the exam is here.</p>
 <p>So let me tell you a short story about how I ended up getting a voucher for this exam. Last year on October 2021, I got an email from EC-Council during Cyber Monday and they were having a huge discount on some certifications and CodeRed. At the time, I was still debating whether to get a voucher for the <strong>eJPT</strong>, which costs <em>$200</em>, or to try my luck with the EC Council&rsquo;s scholarship. When I read the email, I noticed that <strong>C|EH Practical</strong> was only <em>$99</em>. I decided to get it because it was cheaper and more affordable, and this is the end of the story.</p>
 <p>Now thats out of the way, lets talk about the exam.</p>
@@ -27,11 +27,33 @@ So let me tell you a short story about how I ended up getting a voucher for this
 <p>C|EH Practical is a six-hour exam that asks you to tackle a security audit challenge using ethical hacking techniques as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, and so on.</p>
 <p><strong>Exam Information</strong></p>
 <ul>
-<li>Certification Name: Certified Ethical Hacker (Practical)</li>
-<li>Number of Practical Challenges — 20</li>
-<li>Test Format: iLabs Cyber Range</li>
-<li>Passing score: 70% (14 out of 20)</li>
-<li>Test Duration: 6 Hours</li>
+<li>
+<p>Certification Name: Certified Ethical Hacker (Practical)</p>
+</li>
+<li>
+<p>Number of Practical Challenges: 20</p>
+</li>
+<li>
+<p>Test Format: iLabs Cyber Range</p>
+</li>
+<li>
+<p>Passing score: 70% (14 out of 20)</p>
+</li>
+<li>
+<p>Test Duration: 6 Hours</p>
+</li>
+<li>
+<p>The exam takes place on the iLabs environment and you do not need to prepare a machine or VM of your own.</p>
+</li>
+<li>
+<p>You will be given two attack boxes (Parrot OS &amp; Windows Server 2016) and all the tools you will need will be available on the machines. I had internet access on the Windows Server 2016 machine. You will also need to use both machines depending on the questions.</p>
+</li>
+<li>
+<p>The exam is open book so you are free to google stuffs or refer to notes. (Do not use the official document of EC-Council labs notes)</p>
+</li>
+<li>
+<p>You are not allowed to talk to anyone during the exam. (Keep your phone and headphones away)</p>
+</li>
 </ul>
 <p><strong>Requirements to take the exam</strong></p>
 <p>The exam is proctored so you&rsquo;ll need:</p>
@@ -40,13 +62,6 @@ So let me tell you a short story about how I ended up getting a voucher for this
 <li>Webcam (Atleast 720p)</li>
 <li>Microphone</li>
 <li>ID card/Driving Licence/Passport (Just to verify your name before the exam starts)</li>
-</ul>
-<p><strong>Exam Details:</strong></p>
-<ul>
-<li>The exam takes place on the iLabs environment and you do not need to prepare a machine or VM of your own.</li>
-<li>You will be given two attack boxes (Parrot OS &amp; Windows Server 2016) and all the tools you will need will be available on the machines. I had internet access on the Windows Server 2016 machine. You will also need to use both machines depending on the questions.</li>
-<li>The exam is open book so you are free to google stuffs or refer to notes. (Do not use the official document of EC-Council labs notes)</li>
-<li>You are not allowed to talk to anyone during the exam. (Keep your phone and headphones away)</li>
 </ul>
 <p><strong>What you can expect on the Exam?</strong></p>
 <ul>
@@ -65,19 +80,19 @@ So let me tell you a short story about how I ended up getting a voucher for this
 <p>I postponed the exam over five times because of bad weather in my country. I was afraid I might have a power outage. I finally managed to schedule my exam on March 26, 2022 at 2:30AM EST by email because I was having issues to schedule on the exam dashboard. On the day of the exam, I was a bit nervous because I don&rsquo;t like the whole proctoring thing. When I connected to the proctor via a platform called GoMeeting (link was sent via email). The proctor told me to log in to my Apen account. She was really nice. She then explained everything to me for the exam and even gave me the opportunity to ask any questions after checking my ID. The whole process took around 15-20 minutes, and then the exam started. I began with my Nmap scans and then I read all the questions. Most of them were pretty straight forward. In 1 hour, I already had 15 questions answered. One question was a bit tricky to understand, which I left for last. After completing the remaining questions, I tackled the tricky one, which ended up being something really obvious. I told the proctor I was done after completing every question. She told me to click the submit button. When I did, there was a progress bar that said it was going through the grading process and I could now close the tab. The proctor told me to log into the Aspen portal again to view my transcript. I was not surprised that I got <strong>20/20</strong> because I knew everything I did during the exam was right. The proctor then congratulated me and told me to close the meeting.</p>
 <p><strong>How to prepare for the exam?</strong></p>
 <p>I will break this section into two parts. One part will be if you are a complete beginner or if you are new to the cybersecurity field, and the other part will be for those who have experience in pentesting.</p>
-<p>Part 1: (<em>For Beginners)</em></p>
-<p>If you are new to this, I know you might be feeling nervous, but fear not, I got you covered. There aren&rsquo;t many detailed reviews for this exam. You can find some posts in the subreddit of CEH about the exam, along with some opinions of people about it. (<em>Please Read Them!</em>)</p>
-<p>Let me tell you that the best way to prepare for this exam is via iLabs. The exam is just like the iLabs. If you read other reviews, I know they might&rsquo;ve said the same thing. If you cannot afford iLabs, then I highly suggest you watch all the videos in this playlist.</p>
+<p>Part 1: <em>(For Beginners)</em></p>
+<p>If you are new to this, I know you might be feeling nervous, but fear not, I got you covered. There aren&rsquo;t many detailed reviews for this exam. You can find some posts in the subreddit of CEH about the exam, along with some opinions of people about it. <em>(Please Read Them!)</em></p>
+<p>Let me tell you that the best way to prepare for this exam is via iLabs. The exam is just like the iLabs. If you read other reviews, they might&rsquo;ve mentioned the same thing. If you cannot afford iLabs, then I highly suggest you watch all the videos in this playlist.</p>
 <p>Link:</p>
 <p><a href="https://youtube.com/playlist?list=PLrrgFyE6PtlaCixUxJPM0Y9Peye6iCewH">https://youtube.com/playlist?list=PLrrgFyE6PtlaCixUxJPM0Y9Peye6iCewH</a></p>
 <p>You will <strong>NOT</strong> be required to root any machines, but you will have to find vulnerabilities and exploit them. The exam mostly tests your knowlege of tools.</p>
-<p><strong>Tools that I used during the exam</strong> (<em>You may also need to use some other tools in your case because the exam questions change</em>):</p>
+<p><strong>Tools that I used during the exam</strong> <em>(You may also need to use some other tools in your case because the exam questions change)</em>:</p>
 <p>To begin, you must be familiar with Linux and Windows (some CMD tools such as net user, etc.).</p>
 <ul>
 <li>NMap</li>
 <li>WireShark</li>
 <li>OWASP ZAP</li>
-<li>Dirb</li>
+<li>DIRB</li>
 <li>BCTextEncoder</li>
 <li>CrypTool</li>
 <li>Veracrypt</li>
@@ -110,53 +125,64 @@ So let me tell you a short story about how I ended up getting a voucher for this
 <p><strong>Some useful commands</strong></p>
 <p>NMAP</p>
 <blockquote>
-<p>nmap -sn &lt;IP_RANGE&gt; // to check for live hosts</p>
+<p>nmap -sn &lt;IP_RANGE&gt;
+//to check for live hosts</p>
 </blockquote>
 <blockquote>
-<p>nmap -sC -A &lt;IP_RANGE&gt; -oA nmap.txt //top #1000 ports + Detailed scan</p>
+<p>nmap -sC -A &lt;IP_RANGE&gt; -oA nmap.txt
+//top #1000 ports + Detailed scan</p>
 </blockquote>
 <p>TIP: <em>instead of using IP range for the second command you can just put the IP of the live hosts (separated by a space), it will be faster.</em></p>
 <p>Hydra</p>
 <blockquote>
-<p>hydra -L Desktop/Wordlists/Usernames.txt -P Desktop/Wordlists/Passwords.txt <a href="ftp://10.10.10.x">ftp://10.10.10.x</a>  //to crack FTP</p>
+<p>hydra -L Desktop/Wordlists/Usernames.txt -P Desktop/Wordlists/Passwords.txt <a href="ftp://10.10.10.x">ftp://10.10.10.x</a>
+//to bruteforce FTP</p>
 </blockquote>
 <p>WPScan</p>
 <blockquote>
-<p>wpscan &ndash;url http://10.10.10.12:8080/CEH &ndash;enumerate u  //user enumeration</p>
+<p>wpscan &ndash;url http://10.10.10.12:8080/CEH &ndash;enumerate u
+//user enumeration</p>
 </blockquote>
 <blockquote>
-<p>wpscan &ndash;url https://example/ &ndash;passwords wordlist.txt &ndash;usernames ben  //Briteforce with username given</p>
+<p>wpscan &ndash;url https://example/ &ndash;passwords wordlist.txt &ndash;usernames ben
+//BrUteforce with username given</p>
 </blockquote>
 <p>NOTE: <em>For the exam, Wordlists will be given so you don&rsquo;t need to use rockypou.txt or some other wordlists for password cracking or bruteforce attacks</em></p>
 <p>SQLMap</p>
 <blockquote>
-<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> &ndash;dbs   //Find DBs</p>
+<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> &ndash;dbs
+//Find DBs</p>
 </blockquote>
 <blockquote>
-<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName &ndash;table   //Find Tables</p>
+<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName &ndash;table
+//Find Tables</p>
 </blockquote>
 <blockquote>
-<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName -T users &ndash;columns  //Find columns</p>
+<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName -T users &ndash;columns
+//Find columns</p>
 </blockquote>
 <blockquote>
-<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName -T users &ndash;dump   //Dump table</p>
+<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName -T users &ndash;dump
+//Dump table</p>
 </blockquote>
 <blockquote>
-<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName &ndash;dump-all  //Dump the DB</p>
+<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> -D DatabaseName &ndash;dump-all<br>
+//Dump the DB</p>
 </blockquote>
 <blockquote>
-<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> &ndash;cookie=&lsquo;JSESSIONID=09h76qoWC559GH1K7DSQHx&rsquo;&ndash;dbs   //using cookies</p>
+<p>sqlmap -u &ldquo;<a href="http://testphp.vulnweb.com/artists.php?artist=1%22">http://testphp.vulnweb.com/artists.php?artist=1&quot;</a> &ndash;cookie=&lsquo;JSESSIONID=09h76qoWC559GH1K7DSQHx&rsquo; &ndash;dbs
+//using cookies</p>
 </blockquote>
 <p>NOTE: <em>Find more resources at the end of this blog</em></p>
-<p>For the Windows tools, I suggest downloading them and trying them yourself so that you get familiar with them.</p>
+<p>For the Windows tools, I suggest to download and try them yourself in order to get familiar with the tools.</p>
 <p>Part 2: <em>(For experienced people)</em></p>
 <p>Well, you knew this part would be shorter, don&rsquo;t you?!</p>
 <p>If you are nervous, please don&rsquo;t. This exam will be very easy for you. If you have rooted machines before and are familiar with the methods of pentesting, this will be a breeze. Again, I finished this exam with a perfect score of 20/20 in about 1 hour 30 minutes. Hopefully, you can do it faster than me. ;)</p>
 <p>It is very important to stay calm during the exam, the machines you get are very slow and it will test your patience.</p>
 <p><strong>Conclusion</strong></p>
 <p>First and foremost, let me state, <em>My opinions are my own.</em>
-The exam was fun, despite being very easy. I had to make some preparations simply because I paid for it (<em>$99</em>). The only things I did was that I read some other reviews and watched the iLabs on Youtube just to get an idea of how the environment is and that&rsquo;s all. <strong>C|EH Practical</strong> is an excellent entry-level certification to obtain, but only if you can get it for <em>$99</em>_.To be honest, I do not think this certification is worth _$550_.</p>
-<p>If you are taking this exam soon. then goodluck, Have a blast. ;)</p>
+The exam was fun, despite being very easy. I had to make some preparations simply because I paid for it <em>($99)</em>. The only things I did was that I read some other reviews and watched the iLabs on Youtube just to get an idea of how the environment is and that&rsquo;s all. <strong>C|EH Practical</strong> is an excellent entry-level infosec related certification to obtain, but only if you can get it for <em>$99</em>. To be honest, I do not think this certification is worth <em>$550</em>.</p>
+<p>If you are taking this exam soon, I wish you goodluck, Have a blast. ;)</p>
 <hr>
 <p><strong>Find more commands and learning materials for the exam here:</strong></p>
 <p><a href="https://adithyanak.gitbook.io/ceh-practical/">https://adithyanak.gitbook.io/ceh-practical/</a></p>
@@ -189,6 +215,7 @@ The exam was fun, despite being very easy. I had to make some preparations simpl
 <p><a href="https://tryhackme.com/room/rpmetasploit">https://tryhackme.com/room/rpmetasploit</a></p>
 <p><a href="https://tryhackme.com/room/easypeasyctf">https://tryhackme.com/room/easypeasyctf</a></p>
 <p><a href="https://tryhackme.com/room/dailybugle">https://tryhackme.com/room/dailybugle</a></p>
+<hr>
 ]]></content>
         </item>
         
