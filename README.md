@@ -1,4 +1,4 @@
-Website was built using Hugo.
+The blog was built using Hugo.
 
 Theme: hello-friend-ng
 
